@@ -5,9 +5,11 @@ This repository contains a "Catch the Cockroaches" website created using JavaScr
 
 ## Preview
 
+![Screenshot 2023-07-20 091406](https://github.com/Rishabh1662/Catch-the-Cockroaches/assets/130847211/b345cc4c-c226-49e8-8456-277977bb2707)
 
 
-## Technologies Used
+## Technologies Used!
+
 
 - HTML
 - CSS
